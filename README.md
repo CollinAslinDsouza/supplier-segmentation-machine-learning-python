@@ -69,3 +69,10 @@ By applying this segmentation model, procurement teams can shift from a "one-siz
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/CollinAslinDsouza/strategic-supplier-segmentation.git](https://github.com/CollinAslinDsouza/strategic-supplier-segmentation.git)
+
+## 👨‍💻 Author & Contact
+**Collin Aslin Dsouza** *Business Analytics & Management Accounting*
+
+* 📧 **Email:** [dszcollin@gmail.com](mailto:dszcollin@gmail.com)
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/collindsouza30)
+* 🐙 **GitHub:** [Explore my projects](https://github.com/CollinAslinDsouza)
