@@ -1,0 +1,73 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{python}
+import pandas as pd
+#Load the dataset
+kpi = pd.read_excel("C:\\Collin\\Minor project\\01 Projects\\Supplier Synthetic\\Supplier_KPI.xlsx")
+esg = pd.read_excel("C:\\Collin\\Minor project\\01 Projects\\Supplier Synthetic\\Supplier_ESG.xlsx")
+```
+
+```{python}
+#Merge Dataset
+df = pd.merge(kpi, esg, how='inner', on='Supplier_ID')
+```
+
+```{python}
+#Check for missing values and data type
+df.dtypes
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
+
+```{python}
+
+```
